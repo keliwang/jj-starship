@@ -6,11 +6,19 @@ Unified [Starship](https://starship.rs) prompt module for Git and [Jujutsu](http
 
 ## Installation
 
+### Homebrew (macOS)
+
+```sh
+brew install dmmulroy/tap/jj-starship
+```
+
+### Cargo
+
 ```sh
 cargo install jj-starship
 ```
 
-Or build from source:
+### Build from source
 
 ```sh
 git clone https://github.com/dmmulroy/jj-starship
